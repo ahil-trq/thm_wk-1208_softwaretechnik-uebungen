@@ -4,7 +4,7 @@ Kürzel: datr03
 
 ## Studie
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Ein Lastenheft mit den Wünschen und Anforderungen der THM sowie eine erste Kostenabschätzung und ein Projektplan.
 
 - Die heutige Lage aufnehmen: wie Sprechstunden und Prüfungstermine bisher vereinbart werden und wo es hakt
 - Bildschirmskizzen der Buchungsseite mit Studierenden durchgehen
@@ -15,7 +15,7 @@ Kürzel: datr03
 
 ## Systemspezifikation
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Ein Pflichtenheft, in dem genauer steht, welche Funktionen das System haben soll und wie die Anforderungen umgesetzt werden.
 
 - Mit Lehrenden und Sekretariaten Schritt für Schritt beschreiben, wie ein Sprechstundentermin gebucht wird
 - Festlegen, welche Vorgänge ein KI-Agent über die API auslösen darf — z.B. freie Termine abfragen und buchen, aber keine Prüfungstermine absagen
@@ -24,7 +24,7 @@ Kürzel: datr03
 
 ## Systemkonstruktion
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Ein technischer Bauplan, der zeigt, wie die Software aufgebaut ist, welche Komponenten es gibt und wie diese zusammenarbeiten.
 
 - Datenbank, Programmiersprache und Web-Framework auswählen
 - Die API entwerfen: Endpunkte, Datenformat und die Anmeldung der KI-Agenten festlegen
@@ -33,14 +33,14 @@ Kürzel: datr03
 
 ## Implementierung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Die einzelnen Funktionen und Komponenten sind programmiert und wurden getestet.
 
 - Die Komponente „Benachrichtigung“ programmieren
 - Die fertige Komponente „Terminverwaltung“ für sich testen, ehe sie mit anderen zusammenkommt
 
 ## Integration & Einführung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Die Komponenten wurden zusammengeführt, das gesamte System getestet und bei der THM eingeführt.
 
 - Die THM installiert das System in ihrer eigenen Umgebung und prüft es in eigener Verantwortung
 - Terminverwaltung und Benachrichtigung zusammenführen und ihr Zusammenspiel gegen Testfälle prüfen
@@ -50,7 +50,7 @@ Kürzel: datr03
 
 ## Wartung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Fehler werden behoben, das System wird betreut und bei Bedarf um neue Funktionen erweitert.
 
 - Einen Fehler bei der Zeitumstellung beheben, den ein Sekretariat gemeldet hat
 - Eine Hotline für Fragen der Anwenderinnen und Anwender besetzen
